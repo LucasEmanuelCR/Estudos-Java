@@ -1,0 +1,15 @@
+# Ignorar arquivos compilados Java
+*.class
+*.jar
+
+# Ignorar diretórios de IDEs
+.idea/
+.vscode/
+
+# Ignorar dependências de build (se você usa Maven ou Gradle)
+target/
+build/
+
+# Ignorar arquivos de log
+*.log
+*.tmp
